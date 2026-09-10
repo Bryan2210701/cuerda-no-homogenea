@@ -1,0 +1,1 @@
+#El proyecto presenta una aproximaci¢n utilizando diferencias finitas y el m‚todo de Jacobi para calcular las frecuencias naturales de la oscilaci¢n de una cuerda cuya densidad de masa no es homog‚nea 
